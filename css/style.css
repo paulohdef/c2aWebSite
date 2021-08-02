@@ -1,0 +1,35 @@
+.logoImg{
+    height:100px;
+    width:150px;
+}
+
+.navFont{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.carouselFont{
+    color:white;
+    text-shadow: 1px 1px 1px black;
+    
+}
+
+.carousel-inner img{
+    width:100%;
+    height: 100%;
+    /* object-fit: none;
+    object-position: 0 40%; */
+   
+}
+
+.containerTeste{
+    display:block;
+}
+
+.containerBg{
+    background-color: rgb(243, 242, 242);
+    padding-top:10px;
+}
+.containerItens{
+    width:50%
+
+}
