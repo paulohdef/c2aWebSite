@@ -1,16 +1,44 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.textJustify{
+    text-align: justify!important;
+}
 .logoImg{
     height:100px;
     width:150px;
 }
+.paddingItens{
+    padding:10px;
+}
 
 .navFont{
     font-family: 'Bebas Neue', cursive;
+    font-size: 18px;
 }
 
+
 .carouselFont{
+    
     color:white;
     text-shadow: 1px 1px 1px black;
     
+}
+.carouselSubFont{
+    font-family: 'Heebo', sans-serif;
+    color:rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+   
+}
+.footerFont{
+    
+    color:rgb(95, 95, 95);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0);
+   
+}
+
+.itemFont{
+    font-family: 'Quicksand', sans-serif;
 }
 
 .carousel-inner img{
@@ -25,11 +53,17 @@
     display:block;
 }
 
-.containerBg{
-    background-color: rgb(243, 242, 242);
-    padding-top:10px;
-}
-.containerItens{
-    width:50%
 
+
+.imgClientes{
+    width: 100px;
+    height: 100px;
+}
+.imgParceiros{
+    width: 300px;
+    height: 300px;
+}
+
+.footerBg{
+    background-color:rgba(218, 218, 218, 0.452);
 }
